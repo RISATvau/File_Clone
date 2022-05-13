@@ -444,7 +444,7 @@ def methode():
   os.system("clear")
   banner()
   print ("\033[0;96m─────────────────────────────────────────────────────────────")
-  print("\033[0;96m╔══\033[0;97m[ Pilih Metode Crack ]")
+  print("\033[0;96m╔══\033[0;97m[ Choice Crack ]")
   print("\033[0;96m║")
   print("\033[0;96m╠══\033[0;97m[1] Crack With mbasic")
   print("\033[0;96m╠══\033[0;97m[2] Crack With m.facebook.com")
@@ -466,7 +466,7 @@ def methode():
 def logs():
   banner()
   print("\033[0;96m─────────────────────────────────────────────────────────────")
-  print("\033[0;96m╔══\033[0;97m[ Pilih Metode Login ]")
+  print("\033[0;96m╔══\033[0;97m[ Choice  Login Method ]")
   print("\033[0;96m║")
   print("\033[0;96m╠══\033[0;97m[1] Login With Token")
   print("\033[0;96m╠══\033[0;97m[2] Login With Cookie")
